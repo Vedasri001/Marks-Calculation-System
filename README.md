@@ -1,8 +1,9 @@
-# 🎓 Student Marks Calculation System
+# 🎓 Marks Calculation System
 
-## 1. ✅ Project Content
+## 1. Project Content
 
-The Student Marks Calculation System is a web-based application that streamlines the process of entering, calculating, and displaying student academic performance. Faculty can log in to record internal (3 mid exams) and external marks, while students can view their calculated grades and final report card.It is tailored for use in schools, colleges, or universities and supports both faculty and student roles.
+The Student Marks Management System is a user-friendly web application designed to simplify the process of recording, calculating, and displaying student academic performance. Faculty members can securely log in to enter internal assessment scores (from three midterm exams) and external exam marks. Students can access their accounts to view computed grades and detailed report cards. Designed for use in educational institutions such as schools, colleges, and universities, the system supports both faculty and student roles to ensure efficient and transparent academic evaluation.
+
 
 ## 2. 💻 Project Code
 
