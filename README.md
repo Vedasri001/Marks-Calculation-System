@@ -8,7 +8,7 @@ The Student Marks Management System is a user-friendly web application designed 
 ## 2. 💻 Project Code
 
 The project consists of the following main components:
-
+- `app.py`: Contains api routes of our project
 - `index.html`: Home page with login/registration
 - `student-dashboard.html`: Student dashboard with options to view marks and report
 - `faculty-dashboard.html`: Faculty dashboard for entering marks
